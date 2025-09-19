@@ -1,6 +1,6 @@
 # Claude 4 国内使用指南~ （最强 Claude 4 Sonnet，稳定好用~）【2025年9月更新】
 
-> 更新：**2025-09-04**  
+> 更新：**2025-09-21**  
 
 国内能轻松使用的 [**Claude 中文版**](https://ai.lanjing.pro) ，**无需翻墙**，**支持 Claude 3.7、Claude 3.5 及中文版功能**    
 本指南提供 **Claude 国内使用指南**，包括国内可用的 [**Claude 网页版**](https://ai.lanjing.pro)、[**Claude 国内入口**](https://xsimplechat.com)、[**Claude 官网镜像**](https://ai.lanjing.pro)和详细使用教程，帮助您快速使用上 Claude~
